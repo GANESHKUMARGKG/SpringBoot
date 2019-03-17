@@ -12,10 +12,6 @@ public class Employee {
 		this.lastName = lastName;
 		this.email = email;
 	}
-	
-	
-	
-	
 	private Integer id;
 	private String firstName;
 	private String lastName;
